@@ -1,16 +1,20 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iam-ric-o&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-<!--
-**Iam-ric/Iam-ric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="350" src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/productsimages/teststudio/lp-710x510-case-2-illustration.png"/>
 
-Here are some ideas to get you started:
+# Olá! Sou Iam Henrique!👋
+## 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Em 2018 dei início aos meus estudos na área de Tecnologia da Informação e estou em busca de uma oportunidade na área. 
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/iam-henrique-braga)
+
+## 💻 Tecnologias
+
+<p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" alt="robot framework" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
+## 📝 Blog
+- [Em breve](#)
+  
+## 📚 Publicações
+- [Em breve](#)
