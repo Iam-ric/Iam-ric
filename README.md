@@ -13,17 +13,13 @@ Validação: Testes unitários e Pull Request
 
  Além do aprendizado em desenvolvimento, participei de um processo de aceleração de carreira como parte do programa Mobile Dream, através de treinamentos de Inteligência Emocional, Feedback, entre outros.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/iam-henrique-braga)
-
 <div> 
   
   <a href="https://instagram.com/iamhenrique2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:iam.henrique.ads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iam-henrique-braga" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
- 
 </div>
+
 <div align="center">
   <a href="https://github.com/iam-ric">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-ric&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
