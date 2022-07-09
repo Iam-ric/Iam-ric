@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Iam-ric-o&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+
 
 # Olá! Sou Iam Henrique!👋
 ## 👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas
